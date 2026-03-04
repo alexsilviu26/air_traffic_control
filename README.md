@@ -2,8 +2,6 @@
 
 ---
 
-## Introduction
-
 This project implements an **Air Traffic Control system** using **Object-Oriented Programming (OOP)** principles.
 
 The goal of the application is to simulate the processes involved in air traffic management, including:
